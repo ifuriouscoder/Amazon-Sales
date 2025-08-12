@@ -37,12 +37,20 @@ Certain categories showed consistent year-round demand.
 bash
 Copy
 Edit
+
 Amazon_Sales_Report/
+
 │── data/            # Raw & cleaned datasets
+
 │── notebooks/       # Jupyter notebooks for analysis
+
 │── visuals/         # Charts & graphs generated
+
 │── dashboard/       # Power BI dashboard file
+
 │── README.md        # Project documentation
+
+
 📊 Dashboard Snapshot
 <img width="1136" height="675" alt="Screenshot 2025-08-12 235557" src="https://github.com/user-attachments/assets/29a9ee67-14a0-4475-ac35-47146644ba52" />
 
@@ -60,8 +68,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Amazon_Sales_Report.git
-Open the Jupyter notebooks in the notebooks folder for Python analysis.
+git clone https://github.com/ifuriouscoder/Amazon Sales.git
 
 View the Power BI .pbix file for the interactive dashboard.
 
